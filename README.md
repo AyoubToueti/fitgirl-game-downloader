@@ -67,10 +67,6 @@ BROWSER_TYPE=edge                    # Browser to use (edge, brave, chrome)
 BROWSER_PATH=                       # Custom browser executable path (optional)
 USER_DATA_DIR=                      # Custom user data directory (optional)
 
-# Extension Configuration
-EXTENSION_ID=ahmpjcflkgiildlgicmcieglgoilbfdp  # FDM extension ID
-EXTENSION_NAME=FDM                  # Extension name
-
 # Download Settings
 WAITING_TIME_BETWEEN_DOWNLOADS=3000  # Time between downloads in ms
 DOWNLOAD_WAIT_TIMEOUT=600000        # Timeout for download completion in ms
@@ -145,9 +141,7 @@ fitgirl-game-downloader/
 You can easily customize:
 - Browser type and paths
 - Download timing and timeouts
-- Extension settings
 - File locations
-- Download methods
 
 ## License
 
